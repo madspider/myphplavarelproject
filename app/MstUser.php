@@ -12,4 +12,5 @@ class MstUser extends Model
      * @var string
      */
     protected $table = 'mst_user';
+	//tetst 
 }
