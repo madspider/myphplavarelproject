@@ -9,4 +9,5 @@ use App\Http\Requests;
 class UsersController extends Controller
 {
     //master changed
+	//brand 004 was changed
 }
