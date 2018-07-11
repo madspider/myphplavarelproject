@@ -8,5 +8,5 @@ use App\Http\Requests;
 
 class UsersController extends Controller
 {
-    //rưaar
+    //master changed
 }
